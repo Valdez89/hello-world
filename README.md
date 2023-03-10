@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub for class!
+# To improve is to change.
